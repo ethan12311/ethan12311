@@ -1,6 +1,4 @@
-i am ethan
-here  is my learning journey
-comp1021-introduction to cs(computer science) D
+BRUH Just study record
 
 
 <!---
